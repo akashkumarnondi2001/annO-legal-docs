@@ -1,0 +1,29 @@
+# AnnO App – Safety Standards
+
+At AnnO, we are committed to creating a safe and respectful environment for all users. We take child safety very seriously and have implemented the following standards:
+
+## 🚫 Zero Tolerance for CSAE
+
+We do not allow any content that involves or promotes child sexual abuse or exploitation (CSAE). This includes text, images, or links to such content.
+
+## 📣 Reporting Tools
+
+Users can report any inappropriate or harmful content through the app interface. Reports are reviewed promptly, and immediate action is taken.
+
+## 🛡️ Content Moderation
+
+All user-generated content is subject to moderation. We use a combination of automated tools and manual review to detect and remove harmful or illegal content.
+
+## 📃 Compliance
+
+We follow all applicable laws and policies, including:
+- COPPA (Children’s Online Privacy Protection Act)
+- GDPR (General Data Protection Regulation)
+- Google Play’s CSAE policy
+
+## 📩 Contact Us
+
+If you come across any suspicious or harmful activity, please report it to us at:
+📧 annoinfohub@gmail.com
+
+We review all reports seriously and take appropriate actions including removing content or suspending accounts.
